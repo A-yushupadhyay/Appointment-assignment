@@ -117,8 +117,7 @@ See How it Look Like !
 
 📦 Getting Started
 ```
-# Clone this repo
-git clone https://github.com/your-username/healthcare-booking.git
+
 
 # Install dependencies
 npm install
