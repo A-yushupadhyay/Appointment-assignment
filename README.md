@@ -113,22 +113,17 @@ Then visit http://localhost:3000
 
 ```
 
-✅ Assignment Requirements Checklist
-Requirement	Status
-Next.js + TypeScript Setup	✅ Done
-Tailwind Styling + Open Sans Font	✅ Done
-Doctor Schedule Page	✅ Done
-Appointment Table with Filters	✅ Done
-Booking Flow with Modal	✅ Done
-Slot Interaction Logic	✅ Done
-TypeScript Interfaces	✅ Done
-Responsive Layouts	✅ Done
-Filtering (Debounced)	✅ Done
-Pagination Info Display	✅ Done
-Reusable Components	✅ Done
-README Documentation	✅ Done
+🚀 Developer Tech Stack & Skills
+Category	Technologies / Tools
+Frontend	Next.js, React, TypeScript, Tailwind CSS
+Backend	Node.js, Express.js
+Database	MongoDB, Mongoose
+AI Integration	OpenAI API, LangChain
+Styling	Tailwind CSS, Open Sans, Responsive UI
+Tools & Dev	Git, GitHub, VS Code, Postman
+Others	REST API, ESM Modules, Debouncing, Modals
 
 
 👨‍💻 Author
-Ayush Upadhyay
+Ayush Upadhyay ||       
 Full Stack + AI Developer | Next.js • Node.js • TypeScript • MongoDB • OpenAI • Python • Tailwind
