@@ -129,15 +129,18 @@ Then visit http://localhost:3000
 
 ```
 
-🚀 Developer Tech Stack & Skills
-Category	Technologies / Tools
-Frontend	Next.js, React, TypeScript, Tailwind CSS
-Backend	Node.js, Express.js
-Database	MongoDB, Mongoose
-AI Integration	OpenAI API, LangChain
-Styling	Tailwind CSS, Open Sans, Responsive UI
-Tools & Dev	Git, GitHub, VS Code, Postman
-Others	REST API, ESM Modules, Debouncing, Modals
+### 🚀 Developer Tech Stack & Skills
+
+| Category         | Technologies / Tools                                 |
+|------------------|-------------------------------------------------------|
+| **Frontend**     | Next.js, React, TypeScript, Tailwind CSS              |
+| **Backend**      | Node.js, Express.js                                   |
+| **Database**     | MongoDB, Mongoose                                     |
+| **AI Integration** | OpenAI API, LangChain                               |
+| **Styling**      | Tailwind CSS, Open Sans, Responsive UI                |
+| **Tools & Dev**  | Git, GitHub, VS Code, Postman                         |
+| **Others**       | REST API, ESM Modules, Debouncing, Modals             |
+
 
 
 👨‍💻 Author
